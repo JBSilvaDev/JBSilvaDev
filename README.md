@@ -6,6 +6,6 @@
     - For program cumputer: Python, Flutter
     - For mobile: Flutter
     - For Web: Flutter, HTML, CSS, JS
-- 🤔 I’m looking for help with HTML, CSS, JAVASCRIPT, GIT, MOBILE DEVELOPER, SQL, POWERAPPS
+- 🤔 I’m looking for help with GIT, MOBILE DEVELOPER, SQL, POWERAPPS, Flutter/Dart
 - 😄 Pronouns: CALL ME JB
 
