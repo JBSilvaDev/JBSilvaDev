@@ -4,6 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbsilvadev/)](https://www.linkedin.com/in/jbsilvadev/)
 
 ## Sobre mim
+ <div>
+  <a href="https://github.com/anaduart">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=nord&include_all_commits=true&count_private=false&hide=contribs,prs"/>
+</div>
 Sou um desenvolvedor em busca de especialização em várias plataformas. Tenho formação em Análise e Desenvolvimento de Sistemas pela Unopar, tenho 32 anos e estou sempre disposto a aprender. Mantenho-me atualizado sobre as principais tecnologias para acompanhar as novidades do setor.
 
 Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos.
