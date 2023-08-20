@@ -20,8 +20,17 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
     - Para dispositivos móveis: Flutter.
     - Para web: Flutter, HTML, CSS, JS.
 - Instituições:
-    - ADS - UNOPAR - [<img height = "22em" src="https://assempece.org.br/wp-content/uploads/logo-unopar-p-600x177.png" />](https://www.unopar.com.br/)
-    - Academia do Flutter - [<img height = "22em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />](https://academiadoflutter.com.br/)
-    - HashTag Treinamentos - [<img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />](https://www.hashtagtreinamentos.com/)
+
+    - [<img height = "22em" src="https://github.com/JBSilvaDev/imgs/blob/main/formando.png?raw=true" />](https://www.linkedin.com/in/jbsilvadev/) - Analise e desenvolvimento de sistemas
+        - [Unopar](https://www.unopar.com.br/)
+    - [<img height = "22em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />](https://www.linkedin.com/in/jbsilvadev/) - Desenvolvimento mobile, web e desktop em Flutter/Dart
+        - [Academia do flutter](https://academiadoflutter.com.br/)
+        - [Alura](https://www.alura.com.br/)
+    - [<img height = "22em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />](https://www.linkedin.com/in/jbsilvadev/) - Programação e analise de dados com python
+        - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
+        - [Alura](https://www.alura.com.br/)
+    - [<img height = "22em" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />](https://www.linkedin.com/in/jbsilvadev/) - Analise e modelagem de dados com PowerBI
+        - [Alura](https://www.alura.com.br/)
+
 
 **CALL ME JB**
