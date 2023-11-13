@@ -31,6 +31,7 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - [Alura](https://www.alura.com.br/)
     - [<img height = "22em" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />](https://www.linkedin.com/in/jbsilvadev/) - Analise e modelagem de dados com PowerBI
         - [Alura](https://www.alura.com.br/)
+        - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 
 
 **CALL ME JB**
