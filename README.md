@@ -18,7 +18,7 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
 - ✍🏼 Estudando:
     - Para desktop: Python, Flutter.
     - Para dispositivos móveis: Flutter.
-    - Para web: Flutter, HTML, CSS, JS.
+    - Para web: Django, Flutter, HTML, CSS, JS.
 - Instituições:
 
     - [<img height = "22em" src="https://github.com/JBSilvaDev/imgs/blob/main/formando.png?raw=true" />](https://www.linkedin.com/in/jbsilvadev/) - Analise e desenvolvimento de sistemas
@@ -28,6 +28,9 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - [Alura](https://www.alura.com.br/)
     - [<img height = "22em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />](https://www.linkedin.com/in/jbsilvadev/) - Programação e analise de dados com python
         - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
+        - [Alura](https://www.alura.com.br/)
+    - [<img height = "22em" src="https://raw.githubusercontent.com/JBSilvaDev/imgs/main/django.png" />](https://www.linkedin.com/in/jbsilvadev/) - Desenvovimento Web
+        - [Pythonando](https://plataforma.pythonando.com.br/)
         - [Alura](https://www.alura.com.br/)
     - [<img height = "22em" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />](https://www.linkedin.com/in/jbsilvadev/) - Analise e modelagem de dados com PowerBI
         - [Alura](https://www.alura.com.br/)
