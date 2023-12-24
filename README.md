@@ -38,5 +38,5 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - 
 - Contribuições: <br>
 ![Snake animation](https://github.com/seu-usuário-aqui/JBSilvaDev/blob/output/github-contribution-grid-snake.svg)
-<hr>
+<hr><br>
 **CALL ME JB**
