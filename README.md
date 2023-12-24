@@ -36,7 +36,7 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - [Alura](https://www.alura.com.br/)
         - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
         - 
-- Contribuições: <br>
+- Contribuições:
 ![Snake animation](https://github.com/jbsilvadev/jbsilvadev/blob/output/github-snake-dark.svg)
 <hr><br>
 CALL ME JB
