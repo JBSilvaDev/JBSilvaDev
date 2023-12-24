@@ -37,6 +37,6 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
         - 
 - Contribuições: <br>
-![Snake animation](https://github.com/jbsilvadev/jbsilvadev/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/jbsilvadev/jbsilvadev/blob/output/github-contribution-grid-snake.svg)
 <hr><br>
 CALL ME JB
