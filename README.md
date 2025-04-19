@@ -1,7 +1,7 @@
 # Olá!, sou o JB!
 <div>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true"/>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula"/>    
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true&count_private=false"/>
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula&count_private=false"/>    
 </div> 
 
 ## Sobre mim
