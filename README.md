@@ -11,6 +11,7 @@
 Sou um desenvolvedor em busca de especialização em várias plataformas. Tenho formação em Análise e Desenvolvimento de Sistemas pela Unopar, tenho 32 anos e estou sempre disposto a aprender. Mantenho-me atualizado sobre as principais tecnologias para acompanhar as novidades do setor.
 
 Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos.
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
 - **Cursos** 👨🏼‍🏫 - Estas são as tecnologias que se aplicam ao meu perfil LowCode (PowerApps), Flutter/Dart, Python, Excel e VBA.
 
@@ -36,6 +37,15 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
         - [Alura](https://www.alura.com.br/)
         - [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - Contribuições:
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
+
+
+### 💻 Projetos interessantes:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=unlock_pdf&theme=github_dark)](https://github.com/JBSilvaDev/unlock_pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=sistema-bancario&theme=github_dark)](https://github.com/JBSilvaDev/sistema-bancario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=RPA-SAPWeb-GPO&theme=github_dark)](https://github.com/JBSilvaDev/RPA-SAPWeb-GPO)
+
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
+
 ![Snake animation](https://github.com/jbsilvadev/jbsilvadev/blob/output/github-snake-dark.svg)
 <hr><br>
-CALL ME JB
