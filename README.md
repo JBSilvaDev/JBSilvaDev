@@ -1,6 +1,6 @@
 # Olá!, sou o JB!
 <div>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true&count_private=false"/>
+<!--     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true&count_private=false"/> -->
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula&count_private=false"/>    
 </div> 
 
@@ -44,6 +44,7 @@ Este é o meu perfil. Seja bem-vindo e, se possível, colabore com meus códigos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=unlock_pdf&theme=github_dark)](https://github.com/JBSilvaDev/unlock_pdf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=sistema-bancario&theme=github_dark)](https://github.com/JBSilvaDev/sistema-bancario)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=RPA-SAPWeb-GPO&theme=github_dark)](https://github.com/JBSilvaDev/RPA-SAPWeb-GPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=To-Do-List-Provider&theme=github_dark)](https://github.com/JBSilvaDev/To-Do-List-Provider)
 
 <img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
