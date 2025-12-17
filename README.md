@@ -14,7 +14,7 @@
 
 ![](./imgs/linearBar.png)
 
-### 🚀 Core Competencies
+### 🚀 Principais Competências
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -47,9 +47,7 @@
 
 ![](./imgs/linearBar.png)
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula&langs_count=8&count_private=true&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula&langs_count=8&count_private=true&hide_border=true)
 
 ![Snake animation](https://github.com/jbsilvadev/jbsilvadev/blob/output/github-snake-dark.svg)
 
