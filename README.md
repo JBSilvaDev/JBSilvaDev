@@ -48,7 +48,6 @@
 ![](./imgs/linearBar.png)
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jbsilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbsilvadev&layout=compact&theme=dracula&langs_count=8&count_private=true&hide_border=true" />
 </p>
 
