@@ -1,6 +1,6 @@
 <h1 align="center">Juliano B. Silva (JB)</h1>
 <p align="center">
-  <strong>Analista e Desenvolvedor Sênior | Especialista em Automação de Processos e Desenvolvimento Multiplataforma</strong>
+  <strong>Analista e Desenvolvedor | Especialista em Automação de Processos e Desenvolvimento Multiplataforma</strong>
 </p>
 
 <p align="center">
