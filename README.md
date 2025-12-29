@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Microsoft_365-239120?style=for-the-badge&logo=microsoft365&logoColor=white" alt="MS365"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 
 </p>
@@ -31,10 +30,37 @@
 
 ### 🏆 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=unlock_pdf&theme=github_dark)](https://github.com/JBSilvaDev/unlock_pdf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=RPA-SAPWeb-GPO&theme=github_dark)](https://github.com/JBSilvaDev/RPA-SAPWeb-GPO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=RoboAutomacaoSistemaDesktop&theme=github_dark&description_lines_count=jaksdaskdj)](https://github.com/JBSilvaDev/RoboAutomacaoSistemaDesktop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbsilvadev&repo=sistema-bancario&theme=github_dark)](https://github.com/JBSilvaDev/sistema-bancario)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/JBSilvaDev/unlock_pdf">
+    <img src="./projetos_cards/pgt1.svg" alt="Projeto 1" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/RPA-SAPWeb-GPO">
+    <img src="./projetos_cards/pgt2.svg" alt="Projeto 2" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/RoboAutomacaoSistemaDesktop">
+    <img src="./projetos_cards/pgt3.svg" alt="Projeto 3" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/To-Do-List-Provider">
+    <img src="./projetos_cards/pgt4.svg" alt="Projeto 4" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/barcode_generator">
+    <img src="./projetos_cards/pgt5.svg" alt="Projeto 5" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/alura-space">
+    <img src="./projetos_cards/pgt6.svg" alt="Projeto 6" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/gestao-de-maquina-e-caminhoes">
+    <img src="./projetos_cards/pgt7.svg" alt="Projeto 7" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/JBSilvaDev/viacep">
+    <img src="./projetos_cards/pgt8.svg" alt="Projeto 8" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+<!-- [![](./projetos_cards/pgt1.svg)](https://github.com/JBSilvaDev/unlock_pdf)
+[![](./projetos_cards/pgt2.svg)](https://github.com/JBSilvaDev/RPA-SAPWeb-GPO)
+[![](./projetos_cards/pgt3.svg)](https://github.com/JBSilvaDev/RoboAutomacaoSistemaDesktop)
+[![](./projetos_cards/pgt4.svg)](https://github.com/JBSilvaDev/sistema-bancario) -->
 
 ![](./imgs/linearBar.png)
 

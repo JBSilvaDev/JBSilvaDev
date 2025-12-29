@@ -1,0 +1,50 @@
+<!-- Card SVG com animação na borda da linguagem -->
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Card do projeto">
+  <title>Card do projeto</title>
+
+  <!-- ====== Estilos ====== -->
+  <style>
+    .card { fill: #0f172a; stroke: #1f2937; stroke-width: 1.5; rx: 12; }
+    .title { font: 700 22px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill: #e5e7eb; }
+    .meta  { font: 500 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+    .badge-fill { fill: #111827; rx: 10; }
+    .badge-text { font: 600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill: #93c5fd; }
+    .badge-stroke { fill: none; stroke: #60a5fa; stroke-width: 2; rx: 10; stroke-linecap: round; }
+  </style>
+
+  <!-- ====== Glow para a borda animada ====== -->
+  <defs>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- fundo -->
+  <rect class="card" x="0" y="0" width="300" height="100" />
+
+  <!-- conteúdo -->
+  <g transform="translate(20, 28)">
+    <!-- nome do projeto (edite aqui) -->
+    <text class="title" x="0" y="0">Automação Desktop</text>
+
+    <!-- linguagem com animação de borda (edite aqui) -->
+    <g transform="translate(0, 40)">
+      <!-- retângulo de fundo -->
+      <rect class="badge-fill" x="0" y="-18" width="210" height="32" rx="10" />
+      <!-- borda animada -->
+      <rect class="badge-stroke" x="0" y="-18" width="210" height="32" rx="10" filter="url(#softGlow)"
+            stroke-dasharray="14 8" stroke-dashoffset="0">
+        <!-- animação contínua da borda -->
+        <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="4s" repeatCount="indefinite"/>
+        <!-- pulsar suave na cor -->
+        <animate attributeName="stroke" values="#60a5fa;#38bdf8;#60a5fa" dur="3.2s" repeatCount="indefinite"/>
+      </rect>
+      <!-- texto da badge -->
+      <text class="badge-text" x="12" y="0">UiPath, VB</text>
+    </g>
+  </g>
+</svg>
