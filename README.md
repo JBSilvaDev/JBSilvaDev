@@ -31,14 +31,14 @@
 ### 🏆 Projetos em Destaque
 
 <div style=" justify-content: center;">
-  <a href="https://github.com/JBSilvaDev/unlock_pdf"><img src="./projetos_cards/pgt1.svg" alt="Projeto 1" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/RPA-SAPWeb-GPO"><img src="./projetos_cards/pgt2.svg" alt="Projeto 2" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/RoboAutomacaoSistemaDesktop"><img src="./projetos_cards/pgt3.svg" alt="Projeto 3" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/sistema-bancario"><img src="./projetos_cards/pgt4.svg" alt="Projeto 4" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/barcode_generator"><img src="./projetos_cards/pgt5.svg" alt="Projeto 5" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/alura-space"><img src="./projetos_cards/pgt6.svg" alt="Projeto 6" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/gestao-de-maquina-e-caminhoes"><img src="./projetos_cards/pgt7.svg" alt="Projeto 7" style="margin: 10px; width: 22%;"></a>
-  <a href="https://github.com/JBSilvaDev/viacep"><img src="./projetos_cards/pgt8.svg" alt="Projeto 8" style="margin: 10px; width: 22%;"></a>
+  <a href="https://github.com/JBSilvaDev/unlock_pdf"><img src="./projetos_cards/pgt1.svg" alt="Projeto 1" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/RPA-SAPWeb-GPO"><img src="./projetos_cards/pgt2.svg" alt="Projeto 2" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/RoboAutomacaoSistemaDesktop"><img src="./projetos_cards/pgt3.svg" alt="Projeto 3" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/sistema-bancario"><img src="./projetos_cards/pgt4.svg" alt="Projeto 4" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/barcode_generator"><img src="./projetos_cards/pgt5.svg" alt="Projeto 5" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/alura-space"><img src="./projetos_cards/pgt6.svg" alt="Projeto 6" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/gestao-de-maquina-e-caminhoes"><img src="./projetos_cards/pgt7.svg" alt="Projeto 7" style="margin: 10px; width: 28%;"></a>
+  <a href="https://github.com/JBSilvaDev/viacep"><img src="./projetos_cards/pgt8.svg" alt="Projeto 8" style="margin: 10px; width: 28%;"></a>
 </div>
 
 ![](./imgs/linearBar.png)
