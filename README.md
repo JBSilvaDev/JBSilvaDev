@@ -17,7 +17,8 @@
 ### 🚀 Principais Competências
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
+<a href="http://jbsilva.netlify.app/html/projects.html?skill=Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <img src="https://img.shields.io/badge/UiPath-0078D4?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
   <img src="https://img.shields.io/badge/Microsoft_365-239120?style=for-the-badge&logo=microsoft365&logoColor=white" alt="MS365"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
