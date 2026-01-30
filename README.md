@@ -17,14 +17,12 @@
 ### 🚀 Principais Competências
 
 <p align="center">
-  
 <a href="http://jbsilva.netlify.app/html/projects.html?skill=Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <img src="https://img.shields.io/badge/UiPath-0078D4?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-239120?style=for-the-badge&logo=microsoft365&logoColor=white" alt="MS365"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-
+<a href="https://jbsilva.netlify.app/html/projects.html?skill=UiPath"> <img src="https://img.shields.io/badge/UiPath-0078D4?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/></a>
+<a href="https://jbsilva.netlify.app/html/projects.html?skill=MS365"> <img src="https://img.shields.io/badge/Microsoft_365-239120?style=for-the-badge&logo=microsoft365&logoColor=white" alt="MS365"/></a>
+<a href="https://jbsilva.netlify.app/html/projects.html?skill=SQL"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
+<a href="https://jbsilva.netlify.app/html/projects.html?skill=Flutter"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+<a href="https://jbsilva.netlify.app/html/projects.html?skill=Power%20Platform"> <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="GCP"/></a>
 </p>
 
 ![](./imgs/linearBar.png)
