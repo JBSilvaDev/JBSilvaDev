@@ -27,6 +27,10 @@
 <a href="https://jbsilva.netlify.app/html/projects.html?skill=Flutter" target="_blank"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
 <a href="https://jbsilva.netlify.app/html/projects.html?skill=Power%20Platform" target="_blank"> <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="GCP"/></a>
 <a href="http://jbsilva.netlify.app/html/projects.html?skill=IA" target="_blank"><img src="https://img.shields.io/badge/IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/></a>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 616f8eddf245798b97044b19769cd4ed049a9530
 </p>
 
 ***
