@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=18&duration=2600&pause=800&color=6366f1&center=true&vCenter=true&width=900&lines=Automa%C3%A7%C3%A3o%2C+integra%C3%A7%C3%B5es+e+solu%C3%A7%C3%B5es+inteligentes+que+escalam+processos."
+    src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=18&duration=2600&pause=800&color=39d353&center=true&vCenter=true&width=900&lines=Automa%C3%A7%C3%A3o%2C+integra%C3%A7%C3%B5es+e+solu%C3%A7%C3%B5es+inteligentes+que+escalam+processos."
     alt="Texto animado"
   />
 </p>
