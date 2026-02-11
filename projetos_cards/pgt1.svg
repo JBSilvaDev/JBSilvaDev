@@ -41,7 +41,7 @@
         <!-- animação contínua da borda -->
         <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="4s" repeatCount="indefinite"/>
         <!-- pulsar suave na cor -->
-        <animate attributeName="stroke" values="#60a5fa;#38bdf8;#60a5fa" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#39d353;#44ff64;#43ff7c" dur="3.2s" repeatCount="indefinite"/>
       </rect>
       <!-- texto da badge -->
       <text class="badge-text" x="12" y="0">Python, Django</text>

@@ -59,7 +59,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jbsilvadev&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jbsilvadev&bg_color=0B1220&color=C9D1D9&line=39d353&point=FF3B30&area=true&hide_border=true"
     alt="Gráfico de atividade"
   />
 </p>
